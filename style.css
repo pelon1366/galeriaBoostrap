@@ -1,0 +1,11 @@
+.btnHover {
+  background-color: blue;
+  color: yellow;
+}
+
+.btnHover:hover {
+  background-color: orange;
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */

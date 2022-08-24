@@ -1,0 +1,13 @@
+$color:yellow;
+
+.btnHover {
+
+    background-color: blue;
+    color:$color;
+}
+.btnHover:hover 
+{
+
+    background-color:orange;
+    color:$color;
+}
